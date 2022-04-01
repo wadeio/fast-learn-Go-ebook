@@ -77,6 +77,7 @@ Use the `ebook` to get started.
         <li><a href="#">併發(goroutine)</a></li>
         <li><a href="#">通道(channel)</a></li>
         <li><a href="#">閉包(closure)</a></li>
+        <li><a href="#">介面(interface)</a></li>
       </ul>
     </li>
     <li><a href="#">Go常用的基本庫</a></li>
@@ -149,6 +150,8 @@ Project Link: [https://github.com/wadeio/fast-learn-Go-ebook](https://github.com
 ## Acknowledgments
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template#built-with)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [Go Documentation](https://go.dev/doc/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
