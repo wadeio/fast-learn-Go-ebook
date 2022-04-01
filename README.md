@@ -65,7 +65,7 @@ Use the `ebook` to get started.
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>-->
-    <li><a href="#01.1.md">Go的起源與發展</a></li>
+    <li><a href="https://github.com/wadeio/fast-learn-Go-ebook/blob/main/eBook/01.1.md">Go的起源與發展</a></li>
     <li><a href="#">Go的環境安裝</a></li>
     <li>
       <a href="#">Go基礎語法與特性</a>
