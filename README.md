@@ -32,6 +32,7 @@
   </p>
 </div>
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -45,6 +46,50 @@ Use the `ebook` to get started.
 ## Getting Started
 
 本書將會列出每一章節的大綱,你可以針對想要看的內容,去點選該章節
+
+<!-- ebook TABLE OF CONTENTS -->
+<details>
+  <summary>ebook TABLE OF CONTENTS</summary>
+  <ol>
+    <!--
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>-->
+    <li><a href="#">Go的起源與發展</a></li>
+    <li><a href="#">Go的環境安裝</a></li>
+    <li>
+      <a href="#">Go基礎語法與特性</a>
+      <ul>
+        <li><a href="#">變數型態與宣告</a></li>
+        <li><a href="#">流程控制與循環語法for、if、else、switch和defer</a></li>
+        <li><a href="#">資料結構型態：結構(struct)、切片(slice)和映射(map)型態</a></li>
+        <li><a href="#">方法(method)</a></li>
+        <li><a href="#">併發(goroutine)</a></li>
+        <li><a href="#">通道(channel)</a></li>
+        <li><a href="#">閉包(closure)</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Go常用的基本庫</a></li>
+    <li>
+      <a href="#">Go的應用與實戰</a>
+      <ul>
+        <li><a href="#">Web框架Gin</a></li>
+      </ul>
+    </li>
+
+
+  </ol>
+</details>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -103,6 +148,7 @@ Project Link: [https://github.com/wadeio/fast-learn-Go-ebook](https://github.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template#built-with)
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
