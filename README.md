@@ -47,9 +47,9 @@ Use the `ebook` to get started.
 
 本書將會列出每一章節的大綱,你可以針對想要看的內容,去點選該章節
 
-<!-- ebook TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>ebook TABLE OF CONTENTS</summary>
+  <summary>TABLE OF CONTENTS</summary>
   <ol>
     <!--
     <li>
