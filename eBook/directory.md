@@ -22,4 +22,4 @@ Table of Contents
     05.3.存取資料庫
     05.4.Web網頁框架Gin
 06.Go的單元測試與性能測試
-07.Go常用的基本庫
+07.Go常用的基本庫(Standard library)
