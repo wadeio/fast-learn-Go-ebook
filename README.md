@@ -93,7 +93,7 @@ Use the `ebook` to get started.
     * 04.4.方法(methods)
     * 04.5.併發(goroutine)
     * 04.6.通道(channel)
-    * 04.7.閉包(closure)
+    * 04.7.閉包(closure)
     * 04.8.介面(interface)
 * 05.Go的應用與實戰
     * 05.1.文字檔案處理(XML、JSON處理、檔案操作)
