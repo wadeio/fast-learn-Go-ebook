@@ -18,7 +18,7 @@
   <h3 align="center">快速學Go eBook</h3>
 
   <p align="center">
-    這是一本學習Go語言的電子書!
+    這是一本快速學習Go語言的電子書!
     <br />
     <!--
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -91,9 +91,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-wadeio - [@your_twitter](https://twitter.com/your_username) - wadeio595@gmail.com
+<!--wadeio - [@your_twitter](https://twitter.com/your_username) - wadeio595@gmail.com-->
+wadeio - wadeio595@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/wadeio/fast-learn-Go-ebook](https://github.com/wadeio/fast-learn-Go-ebook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,16 +110,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wadeio/fast-learn-Go-ebook.svg?style=for-the-badge
+[contributors-url]: https://github.com/wadeio/fast-learn-Go-ebook/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wadeio/fast-learn-Go-ebook.svg?style=for-the-badge
+[forks-url]: https://github.com/wadeio/fast-learn-Go-ebook/network/members
+[stars-shield]: https://img.shields.io/github/stars/wadeio/fast-learn-Go-ebook.svg?style=for-the-badge
+[stars-url]: https://github.com/wadeio/fast-learn-Go-ebook/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wadeio/fast-learn-Go-ebook.svg?style=for-the-badge
+[issues-url]: https://github.com/wadeio/fast-learn-Go-ebook/issues
+[license-shield]: https://img.shields.io/github/license/wadeio/fast-learn-Go-ebook.svg?style=for-the-badge
+[license-url]: https://github.com/wadeio/fast-learn-Go-ebook/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/wadeio
 [product-screenshot]: images/screenshot.png
