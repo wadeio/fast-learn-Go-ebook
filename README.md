@@ -151,6 +151,7 @@ Project Link: [https://github.com/wadeio/fast-learn-Go-ebook](https://github.com
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template#built-with)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [Go Documentation](https://go.dev/doc/)
+* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
