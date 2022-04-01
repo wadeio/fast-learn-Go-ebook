@@ -23,7 +23,7 @@ Table of Contents
     05.3.存取資料庫
     05.4.Web網頁框架Gin
 06.Go的單元測試與性能測試
-07.Go常用的基本庫(Standard library)-->
+07.Go的標準庫(Standard library)-->
 
 * 01.Go的起源與語言特性
     * 01.1.Go的起源與發展
@@ -41,10 +41,11 @@ Table of Contents
     * 04.6.通道(channel)
     * 04.7.閉包(closure)
     * 04.8.介面(interface)
+    * 04.9.反射(reflect)
 * 05.Go的應用與實戰
     * 05.1.文字檔案處理(XML、JSON處理、檔案操作)
     * 05.2.Web 服務(Socket、RPC、REST、WebSocket)
     * 05.3.存取資料庫
     * 05.4.Web網頁框架Gin
 * 06.Go的單元測試與性能測試
-* 07.Go常用的基本庫(Standard library)
+* 07.Go的標準庫(Standard library)
