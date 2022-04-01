@@ -101,7 +101,7 @@ Use the `ebook` to get started.
     * 05.2.Web 服務(Socket、RPC、REST、WebSocket)
     * 05.3.存取資料庫
     * 05.4.Web網頁框架Gin
-* 06.Go的單元測試與性能測試
+* 06.Go的單元測試(Unit Test)與性能測試(Benchmark)
 * 07.Go的標準庫(Standard library)
 
 
@@ -111,8 +111,6 @@ Use the `ebook` to get started.
 
 - [x] Add Readme.md
 - [ ] Add 編排 ebook 大綱
-- [ ] Add 待撰寫
-- [ ] Add 待撰寫
 - [ ] 待撰寫
     - [ ] 待撰寫
     - [ ] 待撰寫
