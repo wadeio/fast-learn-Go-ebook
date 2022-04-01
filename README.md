@@ -76,7 +76,7 @@ Use the `ebook` to get started.
         <li><a href="#">方法(method)</a></li>
         <li><a href="#">併發(goroutine)</a></li>
         <li><a href="#">通道(channel)</a></li>
-        <li><a href="#">閉包(closure)</a></li>
+        <li><a href="#">閉包(closure)</a></li>
       </ul>
     </li>
     <li><a href="#">Go常用的基本庫</a></li>
